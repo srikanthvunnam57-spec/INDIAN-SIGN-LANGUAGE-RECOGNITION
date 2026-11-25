@@ -107,8 +107,15 @@ This project demonstrates the use of image processing and Machine Learning techn
 
 
 Project Developed By: Vunnam Srikanth
+
+
+
 Domain: Artificial Intelligence (AI) and Machine Learning (ML)
+
+
 Project: INDIAN SIGN LANGUAGE RECOGNITION  
+
+
 Approach:Supervised Learning – Classification 
 
 
