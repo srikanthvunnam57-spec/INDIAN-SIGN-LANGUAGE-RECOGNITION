@@ -1,0 +1,33 @@
+For your Indian Sign Language Recognition project, use this professional requirements.txt based on your image processing, HOG feature extraction, and Machine Learning workflow.
+
+Filename: requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+joblib
+jupyter
+notebook
+tensorflow
+
+
+
+Library purpose:
+- NumPy, Pandas – Data handling and numerical operations.
+- Matplotlib, Seaborn – Data visualization.
+- Scikit-learn – Machine Learning models and evaluation.
+- Scikit-image – HOG feature extraction.
+- OpenCV, Pillow – Image processing.
+- Joblib – Saving and loading trained models.
+- Jupyter, Notebook – Project development.
+- TensorFlow – CNN implementation.
+
+
+
+Installation:
+pip install -r requirements.txt                                     

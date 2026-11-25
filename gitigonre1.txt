@@ -1,0 +1,81 @@
+
+# ==========================================
+# Indian Sign Language Recognition Project
+# Git Ignore Configuration
+# ==========================================
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Files
+.ipynb_checkpoints/
+.ipython/
+profile_default/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+
+# Dataset Archives
+*.zip
+*.rar
+*.7z
+
+# Extracted Dataset (Uncomment if dataset should not be uploaded)
+# dataset/
+# data/
+
+# Machine Learning Model Files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+*.onnx
+
+# Build and Distribution Files
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Testing and Coverage Reports
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# IDE and Editor Settings
+.vscode/
+.idea/
+.spyderproject/
+.spyproject/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+tempCodeRunnerFile.py
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit Configuration Secrets
+.streamlit/secrets.toml
+
+# Backup Files
+*.bak
+*.swp
+*.swo
+*~
+                                                                                                  
